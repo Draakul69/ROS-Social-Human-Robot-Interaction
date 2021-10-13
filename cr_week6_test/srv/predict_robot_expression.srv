@@ -1,0 +1,9 @@
+int32 object_size
+int32 human_action
+int32 human_expression
+---
+float32 p_happy
+float32 p_sad
+float32 p_neutral
+
+
