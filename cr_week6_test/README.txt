@@ -1,5 +1,4 @@
 Code delveloped by Abubakar Boyi
-Student ID 200871774
 
 To run the package
 
